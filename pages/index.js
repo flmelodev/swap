@@ -9,6 +9,12 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <div>
+        <h1>
+          Guia de ajuda para procedimento de configuração de máquinas!
+        </h1>
+      </div>
+
     </div>
   )
 }
